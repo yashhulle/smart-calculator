@@ -1,9 +1,28 @@
-# Smart Calculator
+# 🧮 Smart Calculator
 
-A modern calculator with:
+A modern web-based calculator built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+- Basic arithmetic operations
 - Keyboard support
-- History tracking
-- Dark/Light mode
-- Responsive design
+- Calculation history (saved using LocalStorage)
+- Clear history option
+- Dark/Light mode toggle
+- Responsive design (mobile-friendly)
 
-Built using HTML, CSS, JavaScript
+## 🌐 Live Demo
+https://your-netlify-link.netlify.app
+
+## 🛠️ Tech Stack
+- HTML
+- CSS (Glassmorphism UI)
+- JavaScript
+
+## 📌 Future Improvements
+- Scientific calculator mode
+- Better animations
+- Voice input
+
+---
+
+💡 Built as a beginner-friendly project to strengthen JavaScript fundamentals.
