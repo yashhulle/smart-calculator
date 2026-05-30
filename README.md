@@ -11,7 +11,7 @@ A modern web-based calculator built using HTML, CSS, and JavaScript.
 - Responsive design (mobile-friendly)
 
 ## 🌐 Live Demo
-https://your-netlify-link.netlify.app
+https://your-netlify-link.netlify.app](https://smart-calculator12345.netlify.app
 
 ## 🛠️ Tech Stack
 - HTML
